@@ -6,7 +6,7 @@
 // Define the layers
 enum layer_names {
     _BL,
-    _SL
+    _SL,
 };
 
 // Keymaps
@@ -20,16 +20,16 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * │ F19 │ F20 │ F21 │
      * └─────┴─────┴─────┘
      */
-    [_BL] = LAYOUT_ortho_3x3(
+    [_BL] = LAYOUT(
         KC_SLEP,    KC_WAKE,    TG(_SL),
         KC_MPRV,    KC_MPLY,    KC_MNXT,
-        KC_F16,    KC_F17,    KC_F18
+        KC_F16,     KC_F17,     KC_F18
     ),
-    [_SL] = LAYOUT_ortho_3x3(
+    [_SL] = LAYOUT(
         KC_F1,    KC_F2,    KC_TRNS,
         KC_F3,    KC_F4,    KC_F5,
         KC_F6,    KC_F7,    KC_F8
-    )
+    ),
 };
 
 // Encoder Function

@@ -4,6 +4,7 @@
     "maintainer": "Somebud0180",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
+    "lto": "true",
     "features": {
         "bootmagic": true,
         "command": false,
@@ -31,7 +32,7 @@
         "vid": "0x4843"
     },
     "layouts": {
-        "LAYOUT_ortho_3x3": {
+        "LAYOUT": {
             "layout": [
                 {"matrix": [0, 0], "x": 0, "y":0},
                 {"matrix": [1, 0], "x": 1, "y":0},
