@@ -1,6 +1,6 @@
 # ctrl_pad
 
-![ctrl_pad](https://imgur.com/a/q8BiN6y)
+![ctrl_pad](https://i.imgur.com/dbGas2V.png)
 
 *A 3x3 macropad with an OLED display*
 
