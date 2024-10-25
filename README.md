@@ -31,7 +31,8 @@ PCB in black, case is all white, plate in transparent acrylic
 # Ctrl_pad
 A macropad with 5 keys, an encoder and an 0.96" OLED display. It runs on QMK, hopes and dreams.
 
-![Ctrl_pad_img](https://github.com/user-attachments/assets/bd5f5bd5-9360-4550-bbef-66983b6ec37e)
+![Ctrl_pad_img](https://github.com/user-attachments/assets/ea17dad7-33b1-479b-87f6-5eb0091830cb)
+
 It looks (approximately) like this. 
 
 ### Inspirations
