@@ -22,7 +22,7 @@ PCB in black, case is all white, plate in transparent acrylic
 | Gateron Milky Yellows      | 8      |
 | Mill-Max 0305s             | 16*    |
 | 4.7K Through-hole Resistors| 2      |
-| Through-hole 1N4148 Diodes | 6      |
+| Through-hole 1N4148 Diodes | 9      |
 
 *<sup> assuming one per socket
 
